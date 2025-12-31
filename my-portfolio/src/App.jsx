@@ -163,7 +163,7 @@ export default function App() {
               <img
                 src={p.img}
                 alt={p.title}
-                className="w-full h-[220px] sm:h-[320px] md:h-[450px] object-cover"
+               className="w-full aspect-video object-contain bg-black"
               />
 
               <div className="p-6 sm:p-8">
