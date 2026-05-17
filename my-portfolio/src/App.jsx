@@ -183,7 +183,7 @@ const projects = [
     img: certverify,
     tags: ["Ethereum", "IPFS", "Solidity"],
     desc: "Decentralized application to issue and verify certificates on-chain using Ethereum smart contracts and IPFS storage.",
-    live: "https://bloghub-eight-alpha.vercel.app/",
+    live: "https://cert-verify-rouge.vercel.app/",
     code: "https://github.com/Spandana-MJ/CertVerify",
     demovideo: "https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/preview",
     accent: "#a78bfa",
